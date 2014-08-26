@@ -5,6 +5,7 @@
 + http://askubuntu.com/questions/187092/bluetooth-from-the-command-line-in-12-04
 + [pretty cool usb dongle](http://www.amazon.com/Plugable-Bluetooth-Adapter-Windows-Compatible/dp/B009ZIILLI/)
 + http://openelec.tv/forum/104-bluetooth-remotes/20257-connecting-bluetooth-devices-and-bd-remote-in-the-latest-development-builds
++ Bluetooth 4.1 spec: https://www.bluetooth.org/en-us/specification/adopted-specifications
 
 ## On Ubuntu 12.04
 
